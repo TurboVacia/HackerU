@@ -1,0 +1,12 @@
+# Sample YAML configuration
+server:
+  host: example.com
+  port: 8080
+  admin:
+    name: admin_user
+    password: secure_password
+database:
+  name: my_database
+  user: db_user
+  password: db_password
+  host: localhost
